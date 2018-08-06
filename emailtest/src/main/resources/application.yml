@@ -1,0 +1,10 @@
+spring:
+  mail:
+    host: smtp.163.com
+    username: 18829346231@163.com
+    password: bg18829346231
+    properties:
+        mail:
+            smtp:
+                auth: true
+                timeout: 25000
